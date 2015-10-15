@@ -1,6 +1,6 @@
 {
   "name": "bower-dts-export-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/scripts/bower-dts-export-test.js",
   "ignore": [
     ".*",
